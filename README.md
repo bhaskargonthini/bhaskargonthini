@@ -16,13 +16,13 @@
   ###
 - 🔭 I’m currently working on [Detectron2](https://github.com/avs-abhishek123/Detecting-and-cartooning-an-image)
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👯 I’m looking to collaborate on [Detectron2 for reliability analysis in aviation](https://github.com/avs-abhishek123/Detecting-and-cartooning-an-image)
 
 - 👨‍💻 All of my projects are available at [My GitHub](https://github.com/avs-abhishek123?tab=repositories)
 
-- 📫 How to reach me **av.sai.abhishek@gmail.com**
+- 📫 How to reach me **bhaskarin1india2@gmail.com**
   <br>
   <br>
 <hr>
