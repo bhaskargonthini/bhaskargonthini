@@ -5,7 +5,7 @@
 
 <hr>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=avs-abhishek123)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=bhaskargonthini)](https://github.com/ryo-ma/github-profile-trophy)
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
@@ -14,13 +14,13 @@
 <br>
   
   ###
-- 🔭 I’m currently working on [Detectron2](https://github.com/avs-abhishek123/Detecting-and-cartooning-an-image)
+- 🔭 I’m currently working on Few Python Projects
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👯 I’m looking to collaborate on [Detectron2 for reliability analysis in aviation](https://github.com/avs-abhishek123/Detecting-and-cartooning-an-image)
-
-- 👨‍💻 All of my projects are available at [My GitHub](https://github.com/avs-abhishek123?tab=repositories)
+- 👯 I’m looking to collaborate on any Projects 
+  
+- 👨‍💻 All of my projects are available at [My GitHub](https://github.com/bhaskargonthini?tab=repositories)
 
 - 📫 How to reach me **bhaskarin1india2@gmail.com**
   <br>
