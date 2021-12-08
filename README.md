@@ -58,10 +58,10 @@ const Bhaskar = {
 <hr>
 
 # <b><p align="left">My Stats:</p></b>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=avs-abhishek123.avs-abhishek123)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=bhaskargonthini.bhaskargonthini)
 
-![Abhishek’s GitHub stats](https://github-readme-stats.vercel.app/api?username=avs-abhishek123&theme=highcontrast&show_icons=true&count_private=true 
-"Abhishek’s GutHub Stats") &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avs-abhishek123&theme=highcontrast "Abhishek's Top Languages Card")
+!Bhaskar’s GitHub stats](https://github-readme-stats.vercel.app/api?username=bhaskargonthini&theme=highcontrast&show_icons=true&count_private=true 
+"Bhaskar’s GitHub Stats") &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhaskargonthini&theme=highcontrast "Bhaskar's Top Languages Card")
 
 <hr>
 
