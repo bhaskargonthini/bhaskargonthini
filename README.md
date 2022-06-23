@@ -32,7 +32,7 @@
 ```javascript
 const Bhaskar = {
   pronouns: "He" | "Him",
-  code: [HTML, CSS, Python, Javascript],
+  code: [HTML, CSS, Python, Javascript, C++],
   tools: [Jupyter Notebook, Tableau, PYCHARM, Anaconda Navigator],
   challenge: "I am doing the #100DaysOfCode challenge focused on competitive coding & Data Science"
 }
