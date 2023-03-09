@@ -14,11 +14,11 @@
 <br>
   
   ###
-- 🔭 I’m currently working on Few Python Projects
+- 🔭 I’m currently working on Giving AWS certifies solutions architect associate
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Cloud and Devops technologies**
 
-- 👯 I’m looking to collaborate on any Projects 
+- 👯 Im keen in learning new technologies 
   
 - 👨‍💻 All of my projects are available at [My GitHub](https://github.com/bhaskargonthini?tab=repositories)
 
